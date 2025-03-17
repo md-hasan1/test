@@ -9,6 +9,10 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Welcome%20to%20MD%20HASAN's%20Universe&fontSize=40&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=Backend%20Developer%20|%20MERN%20Specialist%20|%20Code%20Architect&descAlignY=55&descAlign=62" width="100%"/>
 
 <h1 align="center">Hi 👋, I'm MD HASAN</h1>
+<p align="center">
+  <img src="https://img.shields.io/github/views/md-hasan1?style=social" alt="Profile Views">
+</p>
+
 <div align="center">
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=30&duration=3000&pause=1000&color=80FFDB&center=true&vCenter=true&random=false&width=750&height=70&lines=Backend+Development+Artisan+%F0%9F%92%BB;MERN+Stack+Architect+%F0%9F%9A%80;API+Craftsman+%26+System+Scaler+%E2%9C%A8;Performance+%26+Database+Optimization+Guru+%F0%9F%93%88;WebSocket+%26+Real-Time+Tech+Explorer+%F0%9F%8C%90;Building+for+Scale%2C+Security+%26+Speed+%F0%9F%94%92" alt="Typing SVG" />
