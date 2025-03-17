@@ -14,6 +14,7 @@
 </p>
 
 
+
 <div align="center">
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=30&duration=3000&pause=1000&color=80FFDB&center=true&vCenter=true&random=false&width=750&height=70&lines=Backend+Development+Artisan+%F0%9F%92%BB;MERN+Stack+Architect+%F0%9F%9A%80;API+Craftsman+%26+System+Scaler+%E2%9C%A8;Performance+%26+Database+Optimization+Guru+%F0%9F%93%88;WebSocket+%26+Real-Time+Tech+Explorer+%F0%9F%8C%90;Building+for+Scale%2C+Security+%26+Speed+%F0%9F%94%92" alt="Typing SVG" />
