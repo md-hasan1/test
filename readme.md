@@ -10,8 +10,9 @@
 
 <h1 align="center">Hi 👋, I'm MD HASAN</h1>
 <p align="center">
-  <img src="https://img.shields.io/github/views/md-hasan1?style=social" alt="Profile Views">
+  <img src="https://komarev.com/ghpvc/?username=md-hasan1&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile View Counter"/>
 </p>
+
 
 <div align="center">
 <div align="center">
