@@ -45,6 +45,7 @@
 ![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![Profile Views](https://komarev.com/ghpvc/?username=md-hasan1&label=Profile%20Views&color=blueviolet&style=flat-square)
 
 </p>
 
