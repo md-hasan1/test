@@ -10,3 +10,6 @@ I’m Md Hasan — Full Stack Developer from Bangladesh 🌍
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=md-hasan1&show_icons=true&count_private=true&theme=radical)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=md-hasan1&theme=radical)
+
+
+<img src="https://streak-stats.demolab.com?user=md-hasan1&theme=radical&count_private=true" alt="GitHub Streak" />
