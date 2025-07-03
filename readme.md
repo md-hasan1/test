@@ -1,6 +1,5 @@
-### 🚀 Featured Projects:
-- **FlightBooker** ✈️ — Book & track flights with real-time data!  
-  ![MongoDB](https://img.shields.io/badge/MongoDB-Used-in-Project-green)
-  [Live Demo](https://portfolio-hasan-ten.vercel.app/) | [Repo](https://github.com/)
+![Hasan's GitHub stats](https://github-readme-stats.vercel.app/api?username=md-hasan1&show_icons=true&count_private=true&hide=stars&theme=radical)
 
-- **Video Wizard** 🎥 — Video uploads, buffer magic & ffmpeg wizardry!
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=md-hasan1&theme=radical&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=md-hasan1&layout=compact&theme=radical)
